@@ -7,51 +7,53 @@
 <br>
 <h1 align="center">Hi 👋, I'm Deepak </h1>
 
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Blockcgain+Developer+Certified by +Alchamey University+CodeEater(YouTube)+Anna University Blockchain Instructor..&hearts;++;Certified+Blockchain+Developer,;Loves+to+learn+new+stuff"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Certified+BlockChain+Developer,;BlockChain+Instructer+Anna+University;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 
 <br>
+- 🌱 Cetified Instructor for **AnnaUniversity**  
+
+
+- 🌱associated with National Stock Exchange of India Limited (NSE)
+
+
+- 🌱 🎓 Alchemy University Alumnus
+
+
+- 🌱 Certified By Code Eater(YouTube) Instructor
+
 
 - 🌱 I am a Backend developer breaking into the world of Blockchain**
 
-- 🌱 Previously worked  **@tcs** as a Backend Developer(Python, Django)
 
-- 🌱 I’m currently learning **Solidity** 
+- 🌱 Previously worked  **@MVK-Networks** as a Backend Developer(Python, Django)
 
-- 🌱 Member : **Superwomen DAO**
+
 - 💬 Ask me about **Blockchain, Javascript, React**
 
 - 📫 How to reach me : **k.deepak629@gmail.com**
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<span align='left'>
+### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/deepak-k-9782b1137/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Deepak k-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+<p align="center">
 
-<br>
-
-<a href="https://twitter.com/Deepak2623" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Deepak k-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-
-<br>
-
-<a href="mailto:k.deepak629@gmail@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Deepak k-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-	
-</span>
+<a href="https://www.linkedin.com/in/deepak-k-9782b1137/"><img src="https://img.shields.io/badge/-deepak%20k-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:k.deepak629@gmail@gmail.com"><img src="https://img.shields.io/badge/-k.deepak629@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/Deepak2623"><img src="https://img.shields.io/badge/-@Deepak2623__-E4405F?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
-<br><br>
+
+-----
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -80,6 +82,7 @@
   <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" width="35" height="45" >
   
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="50" height="40" >
+
 
 <br><br>
 
