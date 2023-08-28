@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Deepak </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Frontend+Developer+learning+Blockchain..&hearts;++;Self-taught+Blockchain+Developer,;Loves+to+learn+new+stuff"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Blockcgain+Developer+Certified by +Alchamey University+CodeEater(YouTube)+Anna University Blockchain Instructor..&hearts;++;Certified+Blockchain+Developer,;Loves+to+learn+new+stuff"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
