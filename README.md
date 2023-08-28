@@ -13,7 +13,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -34,19 +33,19 @@
 <br>
 <span align='left'>
 
-<a href="https://github.com/Deepak2623" target="_blank">
+<a href="https://www.linkedin.com/in/deepak-k-9782b1137/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Deepak k-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <br>
 
-<a href="https://twitter.com/aapsik" target="_blank">
+<a href="https://twitter.com/Deepak2623" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  Deepak k-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
 <br>
 
-<a href="mailto:aapsikhaira98@gmail.com" target="_blank">
+<a href="mailto:k.deepak629@gmail@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Deepak k-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 	
