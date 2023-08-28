@@ -19,13 +19,16 @@
 
 
 <br>
+- 🌱 🎓 Alchemy University Alumnus
+
+
 - 🌱 Cetified Instructor for **AnnaUniversity**  
 
 
 - 🌱associated with National Stock Exchange of India Limited (NSE)
 
 
-- 🌱 🎓 Alchemy University Alumnus
+
 
 
 - 🌱 Certified By Code Eater(YouTube) Instructor
