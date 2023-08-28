@@ -5,7 +5,7 @@
        alt="snake" /></a>
 </div>
 <br>
-<h1 align="center">Hi 👋, I'm Aapsi </h1>
+<h1 align="center">Hi 👋, I'm Deepak </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Frontend+Developer+learning+Blockchain..&hearts;++;Self-taught+Blockchain+Developer,;Loves+to+learn+new+stuff"></a>
@@ -17,16 +17,16 @@
 
 <br>
 
-- 🌱 I am a FullStack developer breaking into the world of Blockchain**
+- 🌱 I am a Backend developer breaking into the world of Blockchain**
 
-- 🌱 Previously worked  **@tcs** as a FullStack Developer(Python, React)
+- 🌱 Previously worked  **@tcs** as a Backend Developer(Python, Django)
 
 - 🌱 I’m currently learning **Solidity** 
 
 - 🌱 Member : **Superwomen DAO**
-- 💬 Ask me about **Blockchain, Javascript, React, ML/AI**
+- 💬 Ask me about **Blockchain, Javascript, React**
 
-- 📫 How to reach me : **aapsikhaira98@gmail.com**
+- 📫 How to reach me : **k.deepak629@gmail.com**
 
 <br>
 
@@ -34,7 +34,7 @@
 <br>
 <span align='left'>
 
-<a href="https://www.linkedin.com/in/aapsi-khaira-308283162/" target="_blank">
+<a href="https://github.com/Deepak2623" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  AapsiK-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
@@ -83,7 +83,7 @@
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="50" height="40" >
 
 <br><br>
-  <h4> ML/AI </h4>
+
   <br>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
