@@ -22,7 +22,7 @@
 - 🌱 🎓 Alchemy University Alumnus
 
 
-- 🌱 Cetified Instructor for **AnnaUniversity**  
+- 🌱 Certified Instructor for **AnnaUniversity**  
 
 
 - 🌱associated with National Stock Exchange of India Limited (NSE)
