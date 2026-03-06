@@ -1,113 +1,123 @@
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-<br>
-<h1 align="center">Hi 👋, I'm Deepak </h1>
-
+<h1 align="center">Hi 👋, I'm Deepak K</h1>
+<h3 align="center">Agentic AI Engineer | LLM Systems | Multi-Agent Architectures</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Certified+BlockChain+Developer,;BlockChain+Instructer+Anna+University;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+Building autonomous AI systems with LangGraph, FastAPI, and modern LLM infrastructure.
 </p>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-
-<br>
-- 🌱 🎓 Alchemy University Alumnus
-
-
-- 🌱 Certified Instructor for **AnnaUniversity**  
-
-
-- 🌱associated with National Stock Exchange of India Limited (NSE)
-
-
-
-
-
-- 🌱 Certified By Code Eater(YouTube) Instructor
-
-
-- 🌱 I am a Backend developer breaking into the world of Blockchain**
-
-
-- 🌱 Previously worked  **@MVK-Networks** as a Backend Developer(Python, Django)
-
-
-- 💬 Ask me about **Blockchain, Javascript, React**
-
-- 📫 How to reach me : **k.deepak629@gmail.com**
-
-<br>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/deepak-k-9782b1137/"><img src="https://img.shields.io/badge/-deepak%20k-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:k.deepak629@gmail@gmail.com"><img src="https://img.shields.io/badge/-k.deepak629@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/Deepak2623"><img src="https://img.shields.io/badge/-@Deepak2623__-E4405F?style=flat&logo=twitter&logoColor=white"/></a>
-</p>
-
------
-
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-<h4> Web Development </h4>
-<span> 
-  
-  
- <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="40" height="45" >
-<img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="40" height="45">
-  
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="45">
-  
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="45">
-<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
-<!--  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-89E99D7181-seeklogo.com.png" width="75" height="40"> 
-<!--    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> -->
-  <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" width="65" height="40" >
-  <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" width="45" height="45">
-  <br><br>
-  <h4> Web3 </h4>
-  <br>
-  <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" width="35" height="45" >
-  
-  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="50" height="40" >
-
-
-<br><br>
-
-  <br>
-
-
-
-  
-</span>
-
-<br>
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-<!-- GitHub stats -->
-<div align="center">
-
-<a href="https://github.com/Deepak2623/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak2623&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepak2623&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="aapsi"/>
-
-</a>
-</div>
 
 ---
+
+## 🚀 About Me
+
+- 🧠 **Agentic AI Engineer** building multi-agent LLM systems  
+- ⚙️ Focused on **LangGraph orchestration, async AI systems, and AI governance**
+- 🔍 Interested in **AI infrastructure, agent architectures, and production LLM systems**
+- 🧩 Building autonomous systems with **FastAPI, Supabase, and multi-model routing**
+- 🌍 Open to **remote roles (US / EU / global)**
+
+---
+
+## 🧠 Core Expertise
+
+**Agentic AI**
+- LangGraph
+- LangChain
+- Multi-Agent Systems
+- HITL (Human-in-the-Loop)
+- Autonomous planning cycles
+
+**LLM Systems**
+- Gemini 2.0 Flash / 2.5 Pro  
+- Groq Llama 70B / 8B  
+- GPT-4o / o3  
+- Claude 3.5 Sonnet  
+
+**AI Infrastructure**
+- FastAPI
+- Async Python (asyncio)
+- SSE streaming
+- Background workers
+- Model routing
+
+**RAG & Memory**
+- FAISS vector search
+- Semantic retrieval
+- Tavily web grounding
+
+**Observability**
+- Langfuse tracing
+- structlog
+- evaluation pipelines
+- agent metrics
+
+---
+
+## ⚡ Key Projects
+
+### 🧠 Nexus Command Center
+**Zero-Trust Agentic AI Operating System**
+
+- Multi-model supervisor mesh coordinating **Gemini, Groq Llama, and embedding models**
+- RAG pipeline with **FAISS semantic retrieval (<150ms)**
+- Guardian node enforcing **PII scrubbing and cryptographic audit logs**
+- Real-time SSE dashboards with Supabase realtime
+
+---
+
+### 🔍 CodeReview Agent v2
+**Autonomous Pull Request Reviewer**
+
+- 4-agent swarm architecture for security, performance, and style analysis
+- Async FastAPI pipeline with **producer/consumer SSE queues**
+- GitHub webhook → agent review → evaluation metrics
+- Langfuse tracing with node timing and token cost tracking
+
+---
+
+### ⚙️ NEXUS-NODE
+**Enterprise Autonomous Action Mesh**
+
+- Cyclic **Plan → Execute → Verify agent architecture**
+- MCP-based tool integrations (GitHub, Slack, Salesforce)
+- Governance stack with **JWT auth, RLS policies, and audit trails**
+- HITL approval gates for high-risk actions
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python · TypeScript · JavaScript · SQL · Solidity  
+
+**Backend**
+
+FastAPI · Django · Node.js · Pydantic · Docker  
+
+**Frontend**
+
+Next.js · React · TailwindCSS  
+
+**Databases**
+
+PostgreSQL · Supabase · MongoDB · MySQL  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak2623&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak2623&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/deepak-k-9782b1137/
+- Email: **k.deepak629@gmail.com**
+
+---
+
+⭐ *Interested in building autonomous AI systems and next-generation LLM infrastructure.*
